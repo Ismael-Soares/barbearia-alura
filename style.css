@@ -234,7 +234,7 @@ footer {
 }
 /*css responsivo*/
 @media screen  and (max-width:480px){
-  .caixa,.principal,.conteudo__beneficios, .mapa__conteudo,.video, .enviar ,.nomesobrenome, .periodos, .fieldset {
+  .caixa,.principal,.conteudo__beneficios, .mapa__conteudo,.video, .enviar ,.nomesobrenome, .periodos, {
     width: auto;
   }
   h1,ul {
